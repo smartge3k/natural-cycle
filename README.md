@@ -13,7 +13,7 @@ git clone https://github.com/smartge3k/natural-cycle.git
 cd <project_name>
 npm install
 ```
-- Build and run the project (in dev mode)
+- Run the project (in dev mode)
 ```
 npm run dev
 ```
